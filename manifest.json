@@ -1,0 +1,10 @@
+{
+    "name": "Air MKG Template",
+    "version": "1.0.0",
+    "website": "airmkg",
+    "description": "Template pour le site Air MKG avec boutique en ligne",
+    "file_regex": "(template-airmkg\\.sql|\\.css$|\\.js$|\\.jpg$|\\.png$)",
+    "thumbnail": "medias/image/airmkg/thumbnail.jpg",
+    "maincolor": "#008aff",
+    "maincolorbis": "#ff0000"
+}
